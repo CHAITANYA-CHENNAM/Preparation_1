@@ -1,2 +1,0 @@
-This folder contains code snippets from the book Hands-On Large Language Models: Language Understanding and Generation by Jay Alammar
-  
