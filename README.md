@@ -94,4 +94,4 @@ I'm particularly interested in the intersection of:
 
 I'm always interested in discussing **AI, ML, deep learning, interesting research, system design, and challenging engineering problems**.
 
-If you're building something interesting in AI, I'd love to hear about it.
+If you're building something interesting in AI, I'd love to hear about it. You can always drop a mail to chaitanyachennam@gmail.com
